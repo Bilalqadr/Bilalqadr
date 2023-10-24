@@ -1,4 +1,4 @@
-## Hi there, I'm [Muhammad Ahsan](https://github.com/ahsansoftengineer/)👋 
+## Hi there, I'm [Bilal Qadri](https://github.com/Bilalqadr/)👋 
  
           
 ## I'm a Developer !!
@@ -10,7 +10,7 @@
 
 ### Ratings
 
-| [![Muhammad Ahsan](https://img.shields.io/badge/MUHAMMAD-AHSAN-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=ahsansoftengineer&color=green) | ![Followers](https://img.shields.io/github/followers/ahsansoftengineer) | ![Stars](https://img.shields.io/github/stars/ahsansoftengineer?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) | 
+| [![Muhammad Ahsan](https://img.shields.io/badge/MUHAMMAD-AHSAN-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=Bilalqadri&color=green) | ![Followers](https://img.shields.io/github/followers/Bilalqadri) | ![Stars](https://img.shields.io/github/stars/Bilalqadri?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) | 
 --| --| --| --|
 
 ### Contact
@@ -18,12 +18,12 @@
 --| --| --|
 
 ### Bages
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahsansoftengineer&margin-w=8&row=2&column=3&align=center)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bilalqadri&margin-w=8&row=2&column=3&align=center)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Stats
-![](https://github-readme-stats.vercel.app/api?username=ahsansoftengineer&theme=light&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com?user=ahsansoftengineer&theme=light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs?username=ahsansoftengineer&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Bilalqadri&theme=light&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com?user=Bilalqadri&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Bilalqadri&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Languages and Tools: [More Icons](https://devicon.dev/)
 #### Dotnet
